@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessKillerApp", "ProcessKillerApp.csproj", "{C398D4D7-586E-4B2E-AAF2-EB4983605627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C398D4D7-586E-4B2E-AAF2-EB4983605627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C398D4D7-586E-4B2E-AAF2-EB4983605627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C398D4D7-586E-4B2E-AAF2-EB4983605627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C398D4D7-586E-4B2E-AAF2-EB4983605627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8B0033-70C4-4139-B5A2-D94BEBF0546C}
+	EndGlobalSection
+EndGlobal

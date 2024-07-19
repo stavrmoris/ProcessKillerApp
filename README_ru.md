@@ -17,4 +17,4 @@ For the English version of this README, click [here](https://github.com/stavrmor
 - .NET Framework: 4.7 или выше
 
 ## ❗ Лицензия
-Этот проект лицензируется под MIT License. Подробности смотрите в файле LICENSE.
+Этот проект лицензируется под MIT License. Подробности смотрите в файле [LICENSE](LICENSE).

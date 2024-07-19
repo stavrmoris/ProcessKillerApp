@@ -3,7 +3,7 @@
 ## 🗒️ Description
 ProcessKillerApp is a simple Windows application that allows the user to terminate processes by their name. The application also supports saving process names for quick access and quick process termination via the context menu of the system tray icon.
 
-Для русскоязычной версии этого README, нажмите [сюда](https://github.com/stavrmoris/ProcessKillerApp/edit/main/README.md).
+Для русскоязычной версии этого README, нажмите [сюда](README_ru.md).
 
 ## 🎯 Usage
 1. Enter the process name in the text box.
@@ -17,4 +17,4 @@ ProcessKillerApp is a simple Windows application that allows the user to termina
 - .NET Framework: 4.7 or higher
 
 ## ❗License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
